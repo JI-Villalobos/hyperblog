@@ -1,4 +1,7 @@
 Mensaje secreto 
 
-esta es una copy del proyecto
+esta es una copy2 del proyecto
 mostrara todos los parametros a ejecutar.
+
+los parametros seran cambiados segun las
+necesidades
