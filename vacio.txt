@@ -7,3 +7,5 @@ los parametros seran cambiados segun las
 necesidades
 
 el proyecto pasara a html y css.
+
+salir.
