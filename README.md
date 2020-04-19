@@ -12,6 +12,7 @@ importante para entrar en la industria
 * trucos muy locos del prfesor
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 Recordatorio: **Este readme.md es solo un 
 ejemplo** . esta diseñado para el curso.
