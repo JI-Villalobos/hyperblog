@@ -11,6 +11,7 @@ importante para entrar en la industria
 * el verdadero amor por las buenas practicas
 * trucos muy locos del prfesor
 * Creado por el increible Platzi Team
+* Incluye ejemplos en windows, linux y mac
 
 Recordatorio: **Este readme.md es solo un 
 ejemplo** . esta diseñado para el curso.
