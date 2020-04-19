@@ -10,6 +10,7 @@ importante para entrar en la industria
 * El flujo de trabajo en GitHub
 * el verdadero amor por las buenas practicas
 * trucos muy locos del prfesor
+* Creado por el increible Platzi Team
 
 Recordatorio: **Este readme.md es solo un 
 ejemplo** . esta diseñado para el curso.
